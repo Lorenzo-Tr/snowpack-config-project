@@ -1,0 +1,28 @@
+{
+  "name": "PortfolioTemp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EndZz-2/PortfolioTemp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EndZz-2/PortfolioTemp/issues"
+  },
+  "homepage": "https://github.com/EndZz-2/PortfolioTemp#readme",
+  "devDependencies": {
+    "snowpack": "^3.3.3"
+  },
+  "dependencies": {
+    "@snowpack/plugin-sass": "^1.4.0"
+  }
+}
