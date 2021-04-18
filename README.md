@@ -20,5 +20,3 @@ Use the following NodeJs command :
 ```bash
 $ npm run build
 ```
-
-@EndZz-2
