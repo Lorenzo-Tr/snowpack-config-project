@@ -1,5 +1,5 @@
 # Snowpack Setup project
-Basic Snowpack project with the **Sass** package installed
+Basic Snowpack project with the `Sass` package installed
 
 ## Download
 Clone the project
